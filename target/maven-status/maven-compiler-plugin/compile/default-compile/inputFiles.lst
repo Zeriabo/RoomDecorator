@@ -1,0 +1,12 @@
+/Users/zeriab/Documents/workspace-spring-tool-suite-4-4.17.2.RELEASE/RoomDecorator/src/main/java/com/room/decorator/model/DecorationRequestWithImage.java
+/Users/zeriab/Documents/workspace-spring-tool-suite-4-4.17.2.RELEASE/RoomDecorator/src/main/java/com/room/decorator/model/DecorationResponse.java
+/Users/zeriab/Documents/workspace-spring-tool-suite-4-4.17.2.RELEASE/RoomDecorator/src/main/java/com/room/decorator/model/RoomAnalysisResponse.java
+/Users/zeriab/Documents/workspace-spring-tool-suite-4-4.17.2.RELEASE/RoomDecorator/src/main/java/com/room/decorator/service/ImageAnalysisService.java
+/Users/zeriab/Documents/workspace-spring-tool-suite-4-4.17.2.RELEASE/RoomDecorator/src/main/java/com/room/decorator/model/DecoratedRoomOption.java
+/Users/zeriab/Documents/workspace-spring-tool-suite-4-4.17.2.RELEASE/RoomDecorator/src/main/java/com/room/decorator/model/DesignStyleInfo.java
+/Users/zeriab/Documents/workspace-spring-tool-suite-4-4.17.2.RELEASE/RoomDecorator/src/main/java/com/room/decorator/RoomDecoratorApplication.java
+/Users/zeriab/Documents/workspace-spring-tool-suite-4-4.17.2.RELEASE/RoomDecorator/src/main/java/com/room/decorator/model/DesignStyle.java
+/Users/zeriab/Documents/workspace-spring-tool-suite-4-4.17.2.RELEASE/RoomDecorator/src/main/java/com/room/decorator/model/DecorationRequest.java
+/Users/zeriab/Documents/workspace-spring-tool-suite-4-4.17.2.RELEASE/RoomDecorator/src/main/java/com/room/decorator/config/AppConfiguration.java
+/Users/zeriab/Documents/workspace-spring-tool-suite-4-4.17.2.RELEASE/RoomDecorator/src/main/java/com/room/decorator/service/AIDecorationService.java
+/Users/zeriab/Documents/workspace-spring-tool-suite-4-4.17.2.RELEASE/RoomDecorator/src/main/java/com/room/decorator/controller/RoomDecoratorController.java
