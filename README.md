@@ -1,2 +1,2 @@
 # RoomDecorator
-AI Room decorator spring boot appx
+AI Room decorator spring boot app
